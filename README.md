@@ -1,5 +1,6 @@
 # airflow-local-dev-5-min
-Set up airflow local dev env in 5 minutes - This is not an official instruction
+Set up airflow local dev env in 5 minutes - This is not an official instruction. This is only for Chinese mainland developers 
+who have network issues when installing python and js dependencies.
 
 ### 2024-05-06
 #### version
