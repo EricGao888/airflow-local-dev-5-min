@@ -39,3 +39,6 @@ npm config delete https-proxy
 ```
 5. run `yarn config list` to make sure all proxies deleted
 6. run `pre-commit run --hook-stage manual compile-www-assets --all-files` to compile front-end assets
+
+#### Miscs.
+* If worker crashes with `SIGSEGV` when you try to view logs, run `export no_proxy=*` before starting airflow.
